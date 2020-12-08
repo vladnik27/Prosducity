@@ -20,6 +20,13 @@
     }
 }
 
+@media (max-width: 1024px) {
+   .team__item {
+        display: none;
+    }
+
+}
+
 @media (max-width: 992px) {
     .header__inner {
         flex-wrap: wrap;
